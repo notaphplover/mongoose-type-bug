@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-type-bug",
+  "version": "1.0.0",
+  "description": "Mongoose type bug repo",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "bug"
+  ],
+  "author": "Roberto Pintos López",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "mongoose": "^5.11.5"
+  }
+}
